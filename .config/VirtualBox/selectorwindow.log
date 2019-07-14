@@ -1,0 +1,19 @@
+00:00:00.333458 VirtualBox GUI VM Selector Window 6.0.8 r130347 linux.amd64 (May 15 2019 09:04:27) release log
+00:00:00.333461 Log opened 2019-06-27T19:06:08.508519000Z
+00:00:00.333462 Build Type: release
+00:00:00.333465 OS Product: Linux
+00:00:00.333467 OS Release: 4.19.49-1-MANJARO
+00:00:00.333468 OS Version: #1 SMP PREEMPT Sun Jun 9 20:24:20 UTC 2019
+00:00:00.333492 DMI Product Name: To Be Filled By O.E.M.
+00:00:00.333504 DMI Product Version: To Be Filled By O.E.M.
+00:00:00.333552 Host RAM: 7969MB (7.7GB) total, 5385MB (5.2GB) available
+00:00:00.333557 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.333558 Process ID: 6695
+00:00:00.333559 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.333594 Qt version: 5.12.3
+00:00:00.350212 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.589770 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.799566 GUI: UIInvisibleWindow::sltFallback: Move event haven't came. Screen: 0, work area: 957x539 x 75x50
+00:00:04.799598 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 957x539 x 75x50
+00:00:06.948969 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:13.461230 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

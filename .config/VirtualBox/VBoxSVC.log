@@ -1,0 +1,54 @@
+00:00:00.001694 main     VirtualBox XPCOM Server 6.0.8 r130347 linux.amd64 (May 15 2019 09:04:27) release log
+00:00:00.001697 main     Log opened 2019-06-27T19:06:08.349288000Z
+00:00:00.001697 main     Build Type: release
+00:00:00.001700 main     OS Product: Linux
+00:00:00.001701 main     OS Release: 4.19.49-1-MANJARO
+00:00:00.001702 main     OS Version: #1 SMP PREEMPT Sun Jun 9 20:24:20 UTC 2019
+00:00:00.001720 main     DMI Product Name: To Be Filled By O.E.M.
+00:00:00.001727 main     DMI Product Version: To Be Filled By O.E.M.
+00:00:00.001761 main     Host RAM: 7969MB (7.7GB) total, 5387MB (5.2GB) available
+00:00:00.001765 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001765 main     Process ID: 6747
+00:00:00.001766 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003688 main     IPC socket path: /tmp/.vbox-donny-ipc/ipcd
+00:00:00.110072 nspr-2   VirtualBox: object creation starts
+00:00:00.110150 nspr-2   Home directory: '/home/donny/.config/VirtualBox'
+00:00:00.110262 nspr-2   Loading settings file "/home/donny/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.115920 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0f0u7: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.116555 nspr-2   NAT: resolv.conf: nameserver 75.75.75.75
+00:00:00.116563 nspr-2   NAT: resolv.conf: nameserver 75.75.76.76
+00:00:00.116567 nspr-2   NAT: resolv.conf: nameserver 2001:558:feed::1
+00:00:00.116570 nspr-2   NAT: resolv.conf: too many nameserver lines, ignoring 2001:558:feed::2
+00:00:00.116576 nspr-2   HostDnsMonitor::updateInfo
+00:00:00.116584 nspr-2   HostDnsMonitor: old information
+00:00:00.116586 nspr-2     no server entries
+00:00:00.116588 nspr-2     no domain set
+00:00:00.116590 nspr-2     no search string entries
+00:00:00.116592 nspr-2   HostDnsMonitor: new information
+00:00:00.116594 nspr-2     server 1: 75.75.75.75
+00:00:00.116596 nspr-2     server 2: 75.75.76.76
+00:00:00.116598 nspr-2     server 3: 2001:558:feed::1
+00:00:00.116600 nspr-2     domain: hsd1.mi.comcast.net
+00:00:00.116602 nspr-2     search string 1: hsd1.mi.comcast.net
+00:00:00.118289 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.120759 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.124405 nspr-2   Loading settings file "/home/donny/VirtualBox VMs/TempleOS/TempleOS.vbox" with version "1.16-linux"
+00:00:00.125001 nspr-2   VirtualBox: object created
+00:00:00.428036 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
+00:00:00.448238 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.514259 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
+00:00:00.515474 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
+00:00:02.798245 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:02.811655 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
+00:00:02.812503 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
+00:00:03.270540 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={The virtual machine 'TempleOS' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:00:03.837118 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:03.848968 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
+00:00:03.850094 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
+00:00:10.005046 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:10.017652 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
+00:00:10.018517 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
+00:00:10.483430 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={The virtual machine 'TempleOS' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:00:11.041368 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:11.056007 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
+00:00:11.057198 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true  aResultDetail=0
